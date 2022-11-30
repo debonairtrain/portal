@@ -1,0 +1,2 @@
+[05-Dec-2021 17:11:12 Africa/Lagos] PHP Warning:  move_uploaded_file(https://applicant.gschstg.sch.ng/uploads/2021-12-05-1711121.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/gschstgs/public_html/a/php/students/upload_image.php on line 29
+[05-Dec-2021 17:11:12 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpO41Jxm' to 'https://applicant.gschstg.sch.ng/uploads/2021-12-05-1711121.jpg' in /home/gschstgs/public_html/a/php/students/upload_image.php on line 29

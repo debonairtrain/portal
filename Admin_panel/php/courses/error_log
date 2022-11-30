@@ -1,0 +1,55 @@
+[05-Dec-2021 15:02:17 Africa/Lagos] PHP Warning:  include_once(../db_connect/db.php): failed to open stream: No such file or directory in /home/gschstgs/public_html/a/php/courses/add_courses.php on line 4
+[05-Dec-2021 15:02:17 Africa/Lagos] PHP Warning:  include_once(): Failed opening '../db_connect/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gschstgs/public_html/a/php/courses/add_courses.php on line 4
+[05-Dec-2021 15:02:21 Africa/Lagos] PHP Warning:  include_once(../db_connect/db.php): failed to open stream: No such file or directory in /home/gschstgs/public_html/a/php/courses/add_courses.php on line 4
+[05-Dec-2021 15:02:21 Africa/Lagos] PHP Warning:  include_once(): Failed opening '../db_connect/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gschstgs/public_html/a/php/courses/add_courses.php on line 4
+[05-Dec-2021 15:03:45 Africa/Lagos] PHP Warning:  include_once(../db_connect/db.php): failed to open stream: No such file or directory in /home/gschstgs/public_html/a/php/courses/add_courses.php on line 4
+[05-Dec-2021 15:03:45 Africa/Lagos] PHP Warning:  include_once(): Failed opening '../db_connect/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gschstgs/public_html/a/php/courses/add_courses.php on line 4
+[05-Dec-2021 15:03:48 Africa/Lagos] PHP Warning:  include_once(../db_connect/db.php): failed to open stream: No such file or directory in /home/gschstgs/public_html/a/php/courses/add_courses.php on line 4
+[05-Dec-2021 15:03:48 Africa/Lagos] PHP Warning:  include_once(): Failed opening '../db_connect/db.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gschstgs/public_html/a/php/courses/add_courses.php on line 4
+[05-Dec-2021 15:06:46 Africa/Lagos] PHP Warning:  include_once(functions.php): failed to open stream: No such file or directory in /home/gschstgs/public_html/a/php/courses/add_courses.php on line 18
+[05-Dec-2021 15:06:46 Africa/Lagos] PHP Warning:  include_once(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gschstgs/public_html/a/php/courses/add_courses.php on line 18
+[05-Dec-2021 15:10:51 Africa/Lagos] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/gschstgs/public_html/a/php/courses/add_courses.php on line 33
+[05-Dec-2021 17:53:47 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function get_all_school_selected() in /home/gschstgs/public_html/a/php/courses/load_edit_course.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gschstgs/public_html/a/php/courses/load_edit_course.php on line 61
+[06-Dec-2021 11:31:24 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function get_all_school_selected() in /home/gschstgs/public_html/a/php/courses/load_edit_course.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gschstgs/public_html/a/php/courses/load_edit_course.php on line 61
+[06-Dec-2021 11:50:54 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function get_all_programme_selected() in /home/gschstgs/public_html/a/php/courses/load_edit_course.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/gschstgs/public_html/a/php/courses/load_edit_course.php on line 80
+[06-Dec-2021 11:53:16 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function get_all_school_selected() in /home/gschstgs/public_html/a/php/courses/load_edit_course.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gschstgs/public_html/a/php/courses/load_edit_course.php on line 61
+[06-Dec-2021 11:54:20 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function get_all_school_selected() in /home/gschstgs/public_html/a/php/courses/load_edit_course.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gschstgs/public_html/a/php/courses/load_edit_course.php on line 62
+[06-Dec-2021 11:54:40 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function get_all_school_selected() in /home/gschstgs/public_html/a/php/courses/load_edit_course.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gschstgs/public_html/a/php/courses/load_edit_course.php on line 62
+[06-Dec-2021 11:55:26 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function get_all_school_selected() in /home/gschstgs/public_html/a/php/courses/load_edit_course.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gschstgs/public_html/a/php/courses/load_edit_course.php on line 62
+[06-Dec-2021 11:56:17 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function get_all_school_selected() in /home/gschstgs/public_html/a/php/courses/load_edit_course.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gschstgs/public_html/a/php/courses/load_edit_course.php on line 62
+[06-Dec-2021 11:56:58 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function get_all_school_selected() in /home/gschstgs/public_html/a/php/courses/load_edit_course.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gschstgs/public_html/a/php/courses/load_edit_course.php on line 62
+[06-Dec-2021 11:57:10 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function get_all_school_selected() in /home/gschstgs/public_html/a/php/courses/load_edit_course.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/gschstgs/public_html/a/php/courses/load_edit_course.php on line 62
+[06-Dec-2021 11:58:03 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function get_all_school_selected() in /home/gschstgs/public_html/a/php/courses/load_edit_course.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/gschstgs/public_html/a/php/courses/load_edit_course.php on line 61

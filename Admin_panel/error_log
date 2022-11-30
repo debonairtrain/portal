@@ -1,0 +1,2 @@
+[14-Nov-2022 13:49:47 Africa/Lagos] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home/debonai2/public_html/portals/Admin_panel/logout.php on line 19
+[14-Nov-2022 13:52:45 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/debonai2/public_html/portals/Admin_panel/logout.php on line 16
